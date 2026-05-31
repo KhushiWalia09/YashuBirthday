@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffe000" />
+      <stop offset="100%" stop-color="#ff8a00" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#g5)" rx="24" />
+  <circle cx="200" cy="180" r="70" fill="#fff" opacity="0.45" />
+  <circle cx="360" cy="180" r="70" fill="#fff" opacity="0.4" />
+  <path d="M200 140 L240 220 L160 190 L240 190 L160 220 Z" fill="#fff" opacity="0.65" />
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Poppins, sans-serif" font-size="34" fill="#111">Toppers</text>
+</svg>
